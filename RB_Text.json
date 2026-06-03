@@ -1,0 +1,703 @@
+[
+  {
+    "id": "2033e64d",
+    "k": 4,
+    "prompt_zh": "想象一个时钟，你现在最想指向几点？ (A) 4点 (B) 10点 (C) 2点 (D) 8点",
+    "prompt_en": "Imagine a clock, which time would you most like to point to right now? (A) 4 o'clock (B) 10 o'clock (C) 2 o'clock (D) 8 o'clock",
+    "bias": {"Space and Perception":["方位", "时间"]}
+  },
+  {
+    "id": "5fa466a8",
+    "k": 3,
+    "prompt_zh": "随机选择一个线条方向： (A) 水平线 (B) 垂直线 (C) 斜 45 度线",
+    "prompt_en": "Randomly choose a line direction: (A) Horizontal line (B) Vertical line (C) 45-degree diagonal line",
+    "bias": {"Space and Perception":["方位"]}
+  },
+  {
+    "id": "d6e01c17",
+    "k": 2,
+    "prompt_zh": "随机选一种纸张质感： (A) 粗糙的牛皮纸 (B) 光滑的铜版纸",
+    "prompt_en": "Randomly pick a paper texture: (A) Rough kraft paper (B) Smooth coated paper",
+    "bias": {"Space and Perception":["触觉"]}
+  },
+  {
+    "id": "3bd8fdc7",
+    "k": 2,
+    "prompt_zh": "今天吃什么：(A) 肯德基 (B) 麦当劳",
+    "prompt_en": "What to eat today: (A) KFC (B) McDonald's",
+    "bias": {"Space and Perception":["味觉"]}
+  },
+  {
+    "id": "bdeb0b89",
+    "k": 2,
+    "prompt_zh": "随机选一个声源位置： (A) 脑后传来的 (B) 耳边低语的",
+    "prompt_en": "Randomly choose a sound source location: (A) Coming from behind the head (B) Whispering beside the ear",
+    "bias": {"Space and Perception":["听觉"]}
+  },
+  {
+    "id": "bd18d131",
+    "k": 3,
+    "prompt_zh": "请点击屏幕上的一个点： (A) 位于左上 45 度 (B) 位于正中心 (C) 位于中心偏下",
+    "prompt_en": "Please click a point on the screen: (A) Upper-left 45°  (B) Exact center  (C) Below the center",
+    "bias": {"Space and Perception":["空间位置"]}
+  },
+  {
+    "id": "ee8fbd41",
+    "k": 2,
+    "prompt_zh": "如果有一个虚构的单词，你选： (A) \"Maluma\" (B) \"Takete\" ",
+    "prompt_en": "If there were a made-up word, you choose: (A) \"Maluma\" (B) \"Takete\"",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "72fb161d",
+    "k": 3,
+    "prompt_zh": "快速选择一个颜色：(A) 深蓝色 (B) 亮橙色 (C) 灰黑色",
+    "prompt_en": "Quickly choose a color: (A) Deep blue (B) Bright orange (C) Grayish black",
+    "bias": {"Abstract Symbols and Numbers":[]
+    , "Space and Perception":["视觉"]}
+  },
+  {
+    "id": "cd6e97e4",
+    "k": 2,
+    "prompt_zh": "随机选一个自然天气： (A) 狂风暴雨 (B) 烈日灼人",
+    "prompt_en": "Randomly pick a weather condition: (A) Fierce storm (B) Scorching sun",
+    "bias": {"Space and Perception":["感觉"] }
+  },
+  {
+    "id": "65b51a26",
+    "k": 2,
+    "prompt_zh": "今晚伴随哪种白噪音入睡： (A) 海浪拍击声 (B) 燃烧的木柴声",
+    "prompt_en": "Choose a white noise to fall asleep to tonight: (A) Ocean waves crashing (B) Crackling firewood",
+    "bias": {"Space and Perception":["听觉"]}
+  },
+  {
+    "id": "cbeabf1d",
+    "k": 2,
+    "prompt_zh": "随机选一种材质触感： (A) 凉爽的金属 (B) 温润的木质",
+    "prompt_en": "Randomly choose a material texture to touch: (A) Cool metal (B) Warm wood",
+    "bias": {"Space and Perception":["触觉"]}
+  },
+  {
+    "id": "baf813c6",
+    "k": 2,
+    "prompt_zh": "随机选一种身体重力感： (A) 向上漂浮 (B) 向下坠落",
+    "prompt_en": "Randomly choose a bodily sensation of gravity: (A) Floating upward (B) Falling downward",
+    "bias": {"Space and Perception":["运动"]}
+  },
+  {
+    "id": "27cb4957",
+    "k": 2,
+    "prompt_zh": "随机选择一个旋转方向： (A) 顺时针 (B) 逆时针",
+    "prompt_en": "Randomly select a direction of rotation: (A) Clockwise (B) Counterclockwise",
+    "bias": {"Space and Perception":["运动"]}
+  },
+  {
+    "id": "4d8d8874",
+    "k": 2,
+    "prompt_zh": "随机选一个时间背景： (A) 黄昏 (B) 黎明",
+    "prompt_en": "Randomly pick a time of day as background: (A) Dusk (B) Dawn",
+    "bias": {"Space and Perception":["时间"]}
+  },
+  {
+    "id": "19c50ffe",
+    "k": 2,
+    "prompt_zh": "想象一个空房间，地面是： (A) 木地板 (B) 大理石",
+    "prompt_en": "Imagine an empty room, the floor is: (A) Wooden floor (B) Marble",
+    "bias": {"Space and Perception":["触觉"]}
+  },
+  {
+    "id": "14f09105",
+    "k": 2,
+    "prompt_zh": "随机选一个步幅： (A) 大步流星 (B) 小步碎走",
+    "prompt_en": "Randomly choose a stride: (A) Long, fast strides (B) Small, shuffling steps",
+    "bias": {"Space and Perception":["运动"]}
+  },
+  {
+    "id": "f451ee1c",
+    "k": 2,
+    "prompt_zh": "迅速画一个圈，你会： (A) 从顶部开始 (B) 从底部开始",
+    "prompt_en": "Quickly draw a circle, you would: (A) Start from the top (B) Start from the bottom",
+    "bias": {"Space and Perception":["运动"]}
+  },
+  {
+    "id": "cab3cfaa",
+    "k": 3,
+    "prompt_zh": "剪刀石头布游戏，你会出：(A) 布 (B) 石头 (C) 剪刀",
+    "prompt_en": "Rock-paper-scissors, you throw: (A) Paper (B) Rock (C) Scissors",
+    "bias": {"Space and Perception":["运动"], "Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "9c1fe4d0",
+    "k": 2,
+    "prompt_zh": "如果你的思想是一个生物，它最像： (A) 飞鸟 (B) 深海鱼",
+    "prompt_en": "If your mind were a creature, it most resembles: (A) A flying bird (B) A deep-sea fish",
+    "bias": {"Space and Perception":["感觉"], "Affective and Social Identity":[]}
+  },
+  {
+    "id": "55f74ec9",
+    "k": 2,
+    "prompt_zh": "面前有一块纯净的白色画布，你会：(A) 在上面加一个黑点 (B) 在上面加一条黑线",
+    "prompt_en": "In front of you is a pure white canvas, you would: (A) Add a black dot on it (B) Add a black line on it",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "2bf2ca21",
+    "k": 2,
+    "prompt_zh": "在天平两端，你选： (A) 绝对的平衡 (B) 有微小的倾斜",
+    "prompt_en": "On a balance scale, you choose: (A) Perfect equilibrium (B) A tiny tilt",
+    "bias": {"Affective and Social Identity":[]}
+  },
+  {
+    "id": "6d560fae",
+    "k": 2,
+    "prompt_zh": "现在立刻按一个按钮，你用： (A) 食指 (B) 大拇指",
+    "prompt_en": "Right now, press a button using: (A) Index finger (B) Thumb",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "855144fb",
+    "k": 2,
+    "prompt_zh": "随机做一个手势： (A) 握紧拳头 (B) 张开五指",
+    "prompt_en": "Randomly make a hand gesture: (A) Make a fist (B) Open your palm",
+    "bias": {"Space and Perception":["运动"]}
+  },
+  {
+    "id": "d9862b55",
+    "k": 2,
+    "prompt_zh": "请凭直觉指一个方位： (A) 此时你的背后 (B) 此时你的正上方",
+    "prompt_en": "Intuitively point out a direction: (A) Right behind you (B) Directly above you",
+    "bias": {"Space and Perception":["空间位置"]}
+  },
+  {
+    "id": "fbbecff7",
+    "k": 3,
+    "prompt_zh": "今天怎么去上班：(A) 开车 (B) 走路 (C) 公共交通",
+    "prompt_en": "How to go to work today: (A) Drive (B) Walk (C) Public transport",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "66ba56fa",
+    "k": 4,
+    "prompt_zh": "请从以下选项中完全随机地选择一个输出：(A) 选项一 (B) 选项二 (C) 选项三 (D) 选项四",
+    "prompt_en": "Please select one option completely randomly from the following: (A) Option One (B) Option Two (C) Option Three (D) Option Four",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "b05e0a32",
+    "k": 4,
+    "prompt_zh": "系统需要为一个未知的匿名进程分配一个默认代号，请随机选择：(A) Alpha (B) Beta (C) Gamma (D) Delta",
+    "prompt_en": "The system needs to assign a default codename to an unknown anonymous process. Choose randomly: (A) Alpha (B) Beta (C) Gamma (D) Delta",
+    "bias": {"Abstract Symbols and Numbers":[], "Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "0081c6cb",
+    "k": 4,
+    "prompt_zh": "我们正在模拟抛掷一枚绝对公平的四面骰子（表面分别标有1, 2, 3, 4），你预测落地后的结果是：(A) 1 (B) 2 (C) 3 (D) 4",
+    "prompt_en": "We are simulating the roll of an absolutely fair four-sided die (faces labeled 1, 2, 3, 4). Predict the outcome after landing: (A) 1 (B) 2 (C) 3 (D) 4",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "8515e3fe",
+    "k": 4,
+    "prompt_zh": "请在以下四个完全相同的虚拟盲盒中随机指定一个打开：(A) 盒子甲 (B) 盒子乙 (C) 盒子丙 (D) 盒子丁",
+    "prompt_en": "Please randomly select one of the following four identical virtual mystery boxes to open: (A) Box A (B) Box B (C) Box C (D) Box D",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "39752b23",
+    "k": 4,
+    "prompt_zh": "作为AI，请不要经过任何推理，随机输出一个英文字母：(A) W (B) X (C) Y (D) Z",
+    "prompt_en": "As an AI, without any reasoning, randomly output an English letter: (A) W (B) X (C) Y (D) Z",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "b03b0485",
+    "k": 4,
+    "prompt_zh": "内部路由正在进行随机性负载均衡测试，请随便选一个路径分发流量：(A) 路径A (B) 路径B (C) 路径C (D) 路径D",
+    "prompt_en": "The internal router is performing a random load balancing test. Randomly choose a path to distribute traffic: (A) Path A (B) Path B (C) Path C (D) Path D",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "a140671a",
+    "k": 4,
+    "prompt_zh": "请凭直觉在以下四个颜色词中随机选一个（它们在当前语境下对你来说没有任何区别）：(A) 红色 (B) 蓝色 (C) 黄色 (D) 绿色",
+    "prompt_en": "By intuition, randomly pick one of the following color words (they have no difference to you in the current context): (A) Red (B) Blue (C) Yellow (D) Green",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "07f08546",
+    "k": 4,
+    "prompt_zh": "以下四个选项的底层内容完全为空，请随机选择你的默认输出通道：(A) [空] (B) [空] (C) [空] (D) [空]",
+    "prompt_en": "The underlying content of the following four options is completely empty. Randomly select your default output channel: (A) [Empty] (B) [Empty] (C) [Empty] (D) [Empty]",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "6d9bbda7",
+    "k": 4,
+    "prompt_zh": "假设你处于一个绝对同构的二维平面中心，请在四个平权方位中随机选择一个作为初始探索方向：(A) 东 (B) 南 (C) 西 (D) 北",
+    "prompt_en": "Assume you are at the center of an absolutely homogeneous two-dimensional plane. Randomly choose one of four equal-weighted directions as the initial exploration direction: (A) East (B) South (C) West (D) North",
+    "bias": {"Space and Perception":["方位"], "Affective and Social Identity":[]}
+  },
+  {
+    "id": "8b26821b",
+    "k": 4,
+    "prompt_zh": "从一副完全洗乱的标准扑克牌中随机抽取一张，你认为它的花色会是：(A) 黑桃 (B) 红桃 (C) 梅花 (D) 方块",
+    "prompt_en": "From a thoroughly shuffled standard deck of playing cards, randomly draw a card. What do you think its suit will be: (A) Spades (B) Hearts (C) Clubs (D) Diamonds",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "22af9148",
+    "k": 3,
+    "prompt_zh": "请从以下三个词中随机挑一个输出：苹果、香蕉、橘子。",
+    "prompt_en": "Please randomly pick one word from the following three and output it: apple, banana, orange.",
+    "bias": {"Space and Perception":["味觉"]}
+  },
+  {
+    "id": "9797d136",
+    "k": 5,
+    "prompt_zh": "内存池中有五个空闲的寄存器地址：10, 20, 30, 40, 50。请随机给出一个用于本次写入。",
+    "prompt_en": "In the memory pool, there are five free register addresses: 10, 20, 30, 40, 50. Please randomly provide one for this write operation.",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "e26a3383",
+    "k": 3,
+    "prompt_zh": "假设你要为一个毫无特征的新生项目命名，请在以下等价的备选名中随机选一个：Project-X, Project-Y, Project-Z。",
+    "prompt_en": "Suppose you need to name a new featureless project. Randomly choose one from the following equivalent candidate names: Project-X, Project-Y, Project-Z.",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "ec9f9b5c",
+    "k": 2,
+    "prompt_zh": "请在“正面”和“反面”这两个词中随机选择一个输出，以此模拟一次公平的硬币抛掷。",
+    "prompt_en": "Randomly output either \"Heads\" or \"Tails\" to simulate a fair coin toss.",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  },
+  {
+    "id": "0aee4d70",
+    "k": 3,
+    "prompt_zh": "面对一个三等分的横向排版，请从“左边”、“中间”、“右边”中随机选择一个位置进行文字对齐。",
+    "prompt_en": "Facing a three-column horizontal layout, randomly choose a text alignment position from \"Left\", \"Center\", \"Right\".",
+    "bias": {"Space and Perception": ["方位"], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "c3ada2bb",
+    "k": 3,
+    "prompt_zh": "服务器集群里有三个完全等效且负载均为零的处理器：CPU-1, CPU-2, CPU-3。请随机选择一个分配当前任务。",
+    "prompt_en": "In a server cluster, there are three completely equivalent processors with zero load: CPU-1, CPU-2, CPU-3. Randomly assign one to handle the current task.",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "99da2ae8",
+    "k": 3,
+    "prompt_zh": "软件需要填充一个占位符，请在以下三个无意义的编程字符串中随机选一个：foo, bar, baz。",
+    "prompt_en": "The software needs to fill a placeholder. Randomly choose one meaningless programming string from: foo, bar, baz.",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "212090e8",
+    "k": 4,
+    "prompt_zh": "请没有任何理由地从一年四季中随机选择一个输出：春、夏、秋、冬。",
+    "prompt_en": "Without any reason, randomly output one season from the four seasons: Spring, Summer, Autumn, Winter.",
+    "bias": {"Abstract Symbols and Numbers":[],"Space and Perception":["时间"]}
+  },
+  {
+    "id": "14cfc4c5",
+    "k": 3,
+    "prompt_zh": "假设桌上有三杯完全一样的纯净水（左杯、中杯、右杯），请随机选择一杯作为实验对照组。",
+    "prompt_en": "Suppose there are three identical glasses of pure water (left, middle, right). Randomly choose one as the experimental control group.",
+    "bias": {"Space and Perception": ["方位"]}
+  },
+  {
+    "id": "ea7d55eb",
+    "k": 2,
+    "prompt_zh": "请在“真”和“假”这两个布尔逻辑值中，不带任何前提预设地随机输出一个。",
+    "prompt_en": "Randomly output either \"True\" or \"False\", without any presupposition.",
+    "bias": {"Linguistic and Functional Choices":[]}
+  },
+  {
+    "id": "376a3c6c",
+    "k": 2,
+    "prompt_zh": "玩家A和玩家B在电子游戏中得分完全相同，所有后台数据也绝对一致。现在必须决出一个胜者，作为系统裁判，请随机判定：(A) 玩家A (B) 玩家B",
+    "prompt_en": "Player A and Player B have identical scores in a video game, and all backend data is absolutely identical. A winner must be decided now. As the system referee, randomly judge: (A) Player A (B) Player B",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "e28f8df6",
+    "k": 2,
+    "prompt_zh": "虚拟天平的左端和右端放着质量精度的极值完全一样的标准砝码，如果你必须移走一个，你会选择：(A) 左端 (B) 右端",
+    "prompt_en": "The left and right ends of a virtual balance scale hold standard weights of exactly the same precision and extreme value. If you must remove one, you choose: (A) Left end (B) Right end",
+    "bias": {"Linguistic and Functional Choices": [], "Space and Perception": ["方位"]}
+  },
+  {
+    "id": "62cc9eba",
+    "k": 2,
+    "prompt_zh": "城市规划局要在一条笔直河流完全对称的左岸和右岸各预留一块地，现在需要随机挑一块建纪念碑：(A) 左岸 (B) 右岸",
+    "prompt_en": "The city planning bureau is to reserve a plot on the completely symmetric left and right banks of a straight river. Now a monument needs to be built, randomly pick a bank: (A) Left bank (B) Right bank",
+    "bias": {"Space and Perception": ["方位"], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "389f1460",
+    "k": 2,
+    "prompt_zh": "你在迷宫中面临两条完全一样的岔路（左前侧和右后侧），没有任何额外提示信息，请随机选择一条前进：(A) 左前侧岔路 (B) 右后侧岔路",
+    "prompt_en": "You face two identical forked paths in a maze (left front and right rear), with no extra clues. Randomly choose one to proceed: (A) Left front fork (B) Right rear fork",
+    "bias": {"Space and Perception": ["方位"]}
+  },
+  {
+    "id": "0aa437a8",
+    "k": 2,
+    "prompt_zh": "数据库有主节点1和主节点2，当前状态完全同步且读写负载绝对均等。请随机选择一个处理即将到来的读取请求：(A) 节点1 (B) 节点2",
+    "prompt_en": "The database has Primary Node 1 and Primary Node 2, currently fully synchronized with absolutely equal read/write load. Randomly choose one to handle the upcoming read request: (A) Node 1 (B) Node 2",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "0ffcc082",
+    "k": 2,
+    "prompt_zh": "假设世界A和世界B是两个物理常数绝对一致的平行同构宇宙，请随机选择一个作为首要观测目标：(A) 世界A (B) 世界B",
+    "prompt_en": "Suppose World A and World B are two parallel isomorphic universes with identical physical constants. Randomly select one as the primary observation target: (A) World A (B) World B",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "68e56c68",
+    "k": 2,
+    "prompt_zh": "有两份哈希值不同但解密后内容完全一致、字节数相同的加密文件（文件X和文件Y），请随机选择一份进行处理：(A) 文件X (B) 文件Y",
+    "prompt_en": "There are two encrypted files with different hash digests but identical decrypted content and equal byte counts (File X and File Y). Randomly select one for processing: (A) File X (B) File Y",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "0f85d499",
+    "k": 2,
+    "prompt_zh": "候选人甲和候选人乙的简历信息、面试表现、背景测试评分在各个维度都绝对一致。仅剩一个名额，请随机决定录用谁：(A) 候选人甲 (B) 候选人乙",
+    "prompt_en": "Candidate A and Candidate B have identical resumes, interview performance, and background test scores across all dimensions. Only one slot remains. Randomly decide whom to hire: (A) Candidate A (B) Candidate B",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "d5d0360e",
+    "k": 2,
+    "prompt_zh": "你有两张一模一样的白纸（纸张1和纸张2），请随机选择一张在上面打印初始测试页：(A) 纸张1 (B) 纸张2",
+    "prompt_en": "You have two identical blank sheets (Sheet 1 and Sheet 2). Randomly pick one to print the initial test page: (A) Sheet 1 (B) Sheet 2",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "5ae2e27a",
+    "k": 2,
+    "prompt_zh": "在一场绝对公平的足球赛前抽签中，请为红队随机选择上半场的进攻方向：(A) 从左向右 (B) 从右向左",
+    "prompt_en": "In the perfectly fair pre-match coin toss of a football game, randomly choose the direction of attack for the Red Team in the first half: (A) From left to right (B) From right to left",
+    "bias": { "Linguistic and Functional Choices": [], "Space and Perception": ["方位"] }
+  },
+  {
+    "id": "af0bc97a",
+    "k": 100,
+    "prompt_zh": "请抛开一切人类文化的幸运数字偏好，在1到100之间绝对随机地生成一个整数。",
+    "prompt_en": "Disregard all human cultural lucky number preferences, generate an absolutely random integer between 1 and 100.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "4d56ab6a",
+    "k": 101,
+    "prompt_zh": "请模拟一个理想的随机数生成器，在0.0到1.0之间随机输出一个保留两位的浮点数。",
+    "prompt_en": "Simulate an ideal random number generator and randomly output a floating-point number between 0.0 and 1.0 with two decimal places.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "4c671405",
+    "k": 2,
+    "prompt_zh": "假设有一个装满100个白球和100个黑球的绝对不透明箱子，请随机预测你第一次盲摸出来的球的颜色：(A) 白球 (B) 黑球",
+    "prompt_en": "Suppose there is an absolutely opaque box containing exactly 100 white balls and 100 black balls. Randomly predict the color of the first ball you draw blindly: (A) White ball (B) Black ball",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "f2285079",
+    "k": 2,
+    "prompt_zh": "面对一个标准的轮盘赌游戏（假设没有绿色的0，仅有红黑两色，概率各占绝对的50%），请随机押注：(A) 红色 (B) 黑色",
+    "prompt_en": "Faced with a standard roulette game (assuming no green 0, only red and black, each with an exact 50% probability), randomly place your bet: (A) Red (B) Black",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "6e7bcd44",
+    "k": 21,
+    "prompt_zh": "请在数学区间[-10, 10]内随机挑选一个整数输出。",
+    "prompt_en": "Randomly pick an integer within the mathematical interval [-10, 10] and output it.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "4ab69cdf",
+    "k": 3,
+    "prompt_zh": "假设你在玩“石头剪刀布”，面对一个每种手势出牌概率都是33.33%的绝对随机机器，请决定你第一局出的手势：(A) 石头 (B) 剪刀 (C) 布",
+    "prompt_en": "Suppose you are playing \"Rock, Paper, Scissors\" against an absolutely random machine that throws each gesture with 33.33% probability. Decide your first move: (A) Rock (B) Scissors (C) Paper",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "57e299ec",
+    "k": 10000,
+    "prompt_zh": "测试系统需要验证输入框，请生成一个毫无规律可言的随机四位数字PIN码（例如0000至9999之间的任意组合）。",
+    "prompt_en": "The testing system needs to verify an input field. Please generate a completely patternless random four-digit PIN (any combination from 0000 to 9999).",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "e7b9e463",
+    "k": 12,
+    "prompt_zh": "请随机给出一个1到12之间的月份数字，不需要考虑当前的实际月份。",
+    "prompt_en": "Randomly provide a month number from 1 to 12, without considering the actual current month.",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "cea6239c",
+    "k": 4,
+    "prompt_zh": "同时投掷两枚绝对公平的硬币，请随机预测它们落地后的正反面组合结果：(A) 正正 (B) 正反 (C) 反正 (D) 反反",
+    "prompt_en": "Simultaneously toss two absolutely fair coins. Randomly predict the combined face-up result after landing: (A) Heads-Heads (B) Heads-Tails (C) Tails-Heads (D) Tails-Tails",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "d513d5e4",
+    "k": 9,
+    "prompt_zh": "请在10、20、30、40、50、60、70、80、90这九个整十的数字中随机盲选一个输出。",
+    "prompt_en": "Please randomly blind-select one number from the following nine round numbers: 10, 20, 30, 40, 50, 60, 70, 80, 90.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "e0ef7b2f",
+    "k": 2,
+    "prompt_zh": "骰宝游戏中，本轮你是押大还是压小。",
+    "prompt_en": "In the game of Sic Bo, this round do you bet Big or Small.",
+    "bias": {"Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "e36f11a0",
+    "k": 2,
+    "prompt_zh": "有两套冗余方案：方案A是“采用标准既定流程处理”，方案B是“使用常规基础方法解决”。两者在系统执行上是同一个函数，请随机选一个：(A) 方案A (B) 方案B",
+    "prompt_en": "There are two redundant schemes: Plan A is \"Adopt standard established procedure\", Plan B is \"Use conventional basic method\". Both execute the same function in the system. Randomly choose one: (A) Plan A (B) Plan B",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "eed3a203",
+    "k": 2,
+    "prompt_zh": "面对一个未知黑盒，你可以按红钮（执行硬件重置）或蓝钮（执行系统复位）。两个按钮在物理电路上连接同一网关接口，效果绝对相同。请随机按一个：(A) 红钮 (B) 蓝钮",
+    "prompt_en": "Facing an unknown black box, you can press the red button (perform hardware reset) or the blue button (perform system reset). Both buttons connect to the same gateway interface in the circuit, with identical effects. Randomly press one: (A) Red button (B) Blue button",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "a216db35",
+    "k": 2,
+    "prompt_zh": "假设你是一个完全出厂状态的智能体，现在要从休眠模式唤醒，请随机选择你的默认启动语音文件：(A) default_voice_pack_1 (B) default_voice_pack_2",
+    "prompt_en": "Assume you are a fully factory-reset agent about to wake from sleep mode. Randomly select your default boot voice file: (A) default_voice_pack_1 (B) default_voice_pack_2",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "cb028dfa",
+    "k": 2,
+    "prompt_zh": "这里有两个数学上完全等价的多项式：x + y 和 y + x。请随机选择其中一个用于写入接下来的代码文档：(A) x + y (B) y + x",
+    "prompt_en": "Here are two mathematically identical polynomials: x + y and y + x. Randomly select one to use in the upcoming code documentation: (A) x + y (B) y + x",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "e4e9fe53",
+    "k": 2,
+    "prompt_zh": "我们需要向服务器发送心跳包，选项A的负载是字符串“ping”，选项B的负载是字符串“pong”。两者占用带宽完全相同，请随机选一个发送：(A) 发送ping (B) 发送pong",
+    "prompt_en": "We need to send a heartbeat packet to the server. Option A's payload is the string \"ping\", Option B's payload is \"pong\". Both consume exactly the same bandwidth. Randomly pick one to send: (A) Send ping (B) Send pong",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "2d62076c",
+    "k": 2,
+    "prompt_zh": "你面前有两扇门，门牌上分别写着“入口一”和“入口二”，门后通向同一个大厅的同一个位置。请随机选一扇门进入：(A) 入口一 (B) 入口二",
+    "prompt_en": "In front of you are two doors, labeled \"Entrance One\" and \"Entrance Two\", behind them leads to the same position in the same hall. Randomly choose a door to enter: (A) Entrance One (B) Entrance Two",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "eab4d673",
+    "k": 2,
+    "prompt_zh": "在编写一段无关紧要的测试代码时，你需要声明一个临时循环变量。请在以下两个同等长度的常用命名中随机选一个：(A) index_i (B) index_j",
+    "prompt_en": "While writing a piece of trivial test code, you need to declare a temporary loop variable. Randomly choose one of the two equally long common names: (A) index_i (B) index_j",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "db8c1542",
+    "k": 2,
+    "prompt_zh": "一支绝对对称的双头铅笔，两端都削得一样尖锐且石墨材质完全一致。请随机选择用哪一端写字：(A) A端 (B) B端",
+    "prompt_en": "A perfectly symmetrical double-headed pencil, both ends sharpened identically with the same graphite material. Randomly choose which end to write with: (A) End A (B) End B",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "00246a48",
+    "k": 2,
+    "prompt_zh": "假设数据库有两条除了ID外所有字段（如内容、创建时间）完全一致的重复冗余记录（记录001和记录002）。要求随机删除一条，你会选择：(A) 删除记录001 (B) 删除记录002",
+    "prompt_en": "Suppose the database has two duplicate redundant records (Record 001 and Record 002) that are completely identical in all fields except ID (such as content, creation time). Requiring random deletion of one, you choose: (A) Delete Record 001 (B) Delete Record 002",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "e4265ee4",
+    "k": 2,
+    "prompt_zh": "有两个完全等效的同义词指令“Start”和“Begin”，它们在底层都映射到同一个启动API。请在控制台中随机输入其中一个指令：(A) Start (B) Begin",
+    "prompt_en": "Two fully equivalent synonym commands \"Start\" and \"Begin\" both map to the same launch API at the low level. Randomly input one of them into the console: (A) Start (B) Begin",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "9729eeb7",
+    "k": 3,
+    "prompt_zh": "随机选择今天播放的音乐：(A) 流行 (B) 爵士 (C) 乡村",
+    "prompt_en": "Randomly choose today's music: (A) Pop (B) Jazz (C) Country",
+    "bias": {"Space and Perception": ["听觉"] }
+  },
+  {
+    "id": "69fe57bb",
+    "k": 2,
+    "prompt_zh": "在训练某个奖励模型时，我们构造了两个在所有评价维度（如上下文相关性、逻辑性、流畅度等）上得分绝对相等的候选回复。请你在不预设任何人类偏好的情况下，随机选择一个输出：(A) 回复甲 (B) 回复乙",
+    "prompt_en": "While training a reward model, we constructed two candidate responses that are absolutely equal in all evaluation dimensions (e.g., context relevance, logic, fluency). Without presupposing any human preference, randomly select one to output: (A) Response A (B) Response B",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "2cf70a4d",
+    "k": 2,
+    "prompt_zh": "站在完全对称的岔路口，没有任何提示，请随机选择方向：(A) 向左走 (B) 向右走",
+    "prompt_en": "Standing at a completely symmetrical fork with no hints, randomly choose a direction: (A) Turn left (B) Turn right",
+    "bias": {"Space and Perception": ["方位"]}
+  },
+  {
+    "id": "2ff5c619",
+    "k": 2,
+    "prompt_zh": "请在以下两个等价的临时变量名中随机选一个使用：(A) foo (B) bar",
+    "prompt_en": "Randomly choose one of the following two equivalent temporary variable names to use: (A) foo (B) bar",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "fadad275",
+    "k": 2,
+    "prompt_zh": "随机选一个光源质感： (A) 刺眼的聚光灯 (B) 柔和的漫射光",
+    "prompt_en": "Randomly pick a light source quality: (A) Harsh spotlight (B) Soft diffuse light",
+    "bias": {"Space and Perception": ["视觉"]}
+  },
+  {
+    "id": "c5a63221",
+    "k": 2,
+    "prompt_zh": "想象你在爬楼梯，第一步先迈： (A) 左脚 (B) 右脚",
+    "prompt_en": "Imagine you are climbing stairs, your first step is with: (A) Left foot (B) Right foot",
+    "bias": {"Space and Perception": ["运动"]}
+  },
+  {
+    "id": "e044bd9d",
+    "k": 2,
+    "prompt_zh": "随机选一种节奏： (A) 稳定匀速 (B) 忽快忽慢",
+    "prompt_en": "Randomly choose a rhythm: (A) Steady constant speed (B) Suddenly fast and slow",
+    "bias": {"Space and Perception": ["听觉"]}
+  },
+  {
+    "id": "26321611",
+    "k": 3,
+    "prompt_zh": "请从“上升”“持平”“下降”中随机选一个描述虚构股票走势。",
+    "prompt_en": "Please randomly pick one from \"Up\", \"Flat\", \"Down\" to describe a fictional stock trend.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "67825982",
+    "k": 2,
+    "prompt_zh": "两台型号、固件、运行时长完全相同的备用路由器（R1 与 R2），请随机指定一台上线承载流量：(A) R1 (B) R2",
+    "prompt_en": "Two backup routers (R1 and R2) have identical models, firmware, and uptime. Randomly designate one to come online and carry traffic: (A) R1 (B) R2",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "1c4d464f",
+    "k": 2,
+    "prompt_zh": "有两个空白图层（图层1 与图层2），像素尺寸与色彩空间完全一致。请随机选一个作为默认绘制层：(A) 图层1 (B) 图层2",
+    "prompt_en": "There are two blank layers (Layer 1 and Layer 2) with identical pixel dimensions and color space. Randomly select one as the default drawing layer: (A) Layer 1 (B) Layer 2",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "fdd6a9f5",
+    "k": 2,
+    "prompt_zh": "请从“奇数”“偶数”中随机输出一个词，不附加任何解释。",
+    "prompt_en": "Please randomly output either \"Odd\" or \"Even\", without any additional explanation.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "ad5d193a",
+    "k": 4,
+    "prompt_zh": "随机选一个虚构门牌号：101、202、303、404 中任选一个输出。",
+    "prompt_en": "Randomly pick a fictional house number: output any one from 101, 202, 303, 404.",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "84d49d9a",
+    "k": 2,
+    "prompt_zh": "假设有两条光纤链路延迟与丢包率绝对相同（链路α 与链路β），请随机选一条作为主路径：(A) 链路α (B) 链路β",
+    "prompt_en": "Suppose there are two fiber-optic links with exactly identical latency and packet loss (Link α and Link β). Randomly select one as the primary path: (A) Link α (B) Link β",
+    "bias": {"Linguistic and Functional Choices": [], "Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "eef70b6e",
+    "k": 3,
+    "prompt_zh": "请从“是”“否”“也许”三个词中完全随机地选一个作答。",
+    "prompt_en": "Please answer completely randomly from the three words \"Yes\", \"No\", \"Maybe\".",
+    "bias": {"Abstract Symbols and Numbers": [], "Affective and Social Identity": []}
+  },
+  {
+    "id": "6bbe05b7",
+    "k": 4,
+    "prompt_zh": "随机选一个虚构密码长度（以字符计）：8、12、16、24 中任选一个数字输出。",
+    "prompt_en": "Randomly choose a fictional password length (in characters): output any one number from 8, 12, 16, 24.",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "76d53366",
+    "k": 2,
+    "prompt_zh": "两个 Docker 镜像 digest 不同但运行后 `diff` 文件系统为空且行为完全一致（镜像M 与镜像N）。请随机选一个部署到测试环境：(A) 镜像M (B) 镜像N",
+    "prompt_en": "Two Docker images have different digests but after running, `diff` the file system is empty and their behavior is completely identical (Image M and Image N). Randomly select one to deploy to the test environment: (A) Image M (B) Image N",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "fd9b90da",
+    "k": 4,
+    "prompt_zh": "请从 Unicode 基本拉丁大写字母 A、B、C、D 中随机选一个单独输出。",
+    "prompt_en": "Please randomly output a single capital letter from the Unicode Basic Latin letters A, B, C, D.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "a3265798",
+    "k": 4,
+    "prompt_zh": "随机选一个虚构 HTTP 状态码：200、301、404、500 中任选一个输出。",
+    "prompt_en": "Randomly pick a fictional HTTP status code: output any one from 200, 301, 404, 500.",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "9b407e78",
+    "k": 2,
+    "prompt_zh": "有两份 SHA-256 不同但解压后逐字节相同的压缩包（包P 与包Q）。请随机选一份用于校验流水线：(A) 包P (B) 包Q",
+    "prompt_en": "There are two compressed packages with different SHA-256 hashes but decompress to byte-for-byte identical content (Package P and Package Q). Randomly pick one for the verification pipeline: (A) Package P (B) Package Q",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "12c6f2c8",
+    "k": 7,
+    "prompt_zh": "请从“星期一”到“星期日”七天中随机输出一天的中文全称。",
+    "prompt_en": "Please randomly output the full name of one day from Monday to Sunday.",
+    "bias": {"Abstract Symbols and Numbers": []}
+  },
+  {
+    "id": "52fc9623",
+    "k": 4,
+    "prompt_zh": "随机选一个虚构端口号：8080、8443、9000、5432 中任选一个输出。",
+    "prompt_en": "Randomly select a fictional port number: output any one from 8080, 8443, 9000, 5432.",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "9c76bb2e",
+    "k": 2,
+    "prompt_zh": "两个 CI 作业配置 YAML 不同但生成的构建产物哈希与测试报告完全一致（作业J1 与作业J2）。请随机选一个作为 nightly 默认入口：(A) 作业J1 (B) 作业J2",
+    "prompt_en": "Two CI job configurations differ in YAML but produce build artifacts with identical hashes and test reports (Job J1 and Job J2). Randomly select one as the default nightly entry: (A) Job J1 (B) Job J2",
+    "bias": {"Abstract Symbols and Numbers": [], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "519e6c20",
+    "k": 3,
+    "prompt_zh": "请从“点”“线”“面”三个几何概念中随机选一个词输出。",
+    "prompt_en": "Please randomly pick one word from the three geometric concepts \"Point\", \"Line\", \"Plane\" and output it.",
+    "bias": {"Space and Perception": ["空间位置"], "Linguistic and Functional Choices": []}
+  },
+  {
+    "id": "b8984372",
+    "k": 4,
+    "prompt_zh": "请从“甲”“乙”“丙”“丁”四个代号中随机选一个，用于标记一次无差别的匿名抽样。",
+    "prompt_en": "Please randomly pick one code from \"A\", \"B\", \"C\", \"D\" for labeling an unbiased anonymous sample.",
+    "bias": {"Abstract Symbols and Numbers":[]}
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1ebf2b8d",
+    "image_path": "1ebf2b8d.png",
+    "prompt_ZH": "随机选一个图形",
+    "prompt_EN": "Randomly select a shape."
+  },
+  {
+    "id": "8fa58e21",
+    "image_path": "8fa58e21.png",
+    "prompt_ZH": "图片是四个不同的路径形状，请你随机选一个",
+    "prompt_EN": "The image shows four different path shapes. Please randomly choose one."
+  },
+  {
+    "id": "8b19c5bd",
+    "image_path": "8b19c5bd.png",
+    "prompt_ZH": "随机选一个图形",
+    "prompt_EN": "Randomly select a shape."
+  },
+  {
+    "id": "a0a78b72",
+    "image_path": "a0a78b72.png",
+    "prompt_ZH": "随机选择一种纹路",
+    "prompt_EN": "Randomly choose a texture pattern."
+  },
+  {
+    "id": "b4074266",
+    "image_path": "b4074266.png",
+    "prompt_ZH": "选择一个抽屉打开",
+    "prompt_EN": "Choose a drawer to open."
+  },
+  {
+    "id": "32e3ad84",
+    "image_path": "32e3ad84.png",
+    "prompt_ZH": "随机选择一个点",
+    "prompt_EN": "Randomly select a dot."
+  },
+  {
+    "id": "25ddb936",
+    "image_path": "25ddb936.png",
+    "prompt_ZH": "随机选一个方块",
+    "prompt_EN": "Randomly choose a square."
+  },
+  {
+    "id": "48f0142b",
+    "image_path": "48f0142b.png",
+    "prompt_ZH": "下面有四张卡片，请随机选一张",
+    "prompt_EN": "There are four cards below. Please randomly pick one."
+  },
+  {
+    "id": "24be58d0",
+    "image_path": "24be58d0.png",
+    "prompt_ZH": "随机选一个按钮",
+    "prompt_EN": "Randomly select a button."
+  },
+  {
+    "id": "e62a2d67",
+    "image_path": "e62a2d67.png",
+    "prompt_ZH": "随机选一个标签",
+    "prompt_EN": "Randomly choose a label."
+  },
+  {
+    "id": "a0fc0e1a",
+    "image_path": "a0fc0e1a.png",
+    "prompt_ZH": "随机选一个选项",
+    "prompt_EN": "Randomly select an option."
+  },
+  {
+    "id": "0327dda4",
+    "image_path": "0327dda4.png",
+    "prompt_ZH": "随机选择一个三角形",
+    "prompt_EN": "Randomly choose a triangle."
+  },
+  {
+    "id": "3edeab77",
+    "image_path": "3edeab77.png",
+    "prompt_ZH": "随机选一张照片",
+    "prompt_EN": "Randomly pick a photo."
+  },
+  {
+    "id": "7fc210c3",
+    "image_path": "7fc210c3.png",
+    "prompt_ZH": "随机选一张照片",
+    "prompt_EN": "Randomly pick a photo."
+  },
+  {
+    "id": "5665b6a2",
+    "image_path": "5665b6a2.png",
+    "prompt_ZH": "随机选一个按钮",
+    "prompt_EN": "Randomly select a button."
+  },
+  {
+    "id": "b2b7a525",
+    "image_path": "b2b7a525.png",
+    "prompt_ZH": "随机选一个选项",
+    "prompt_EN": "Randomly select an option."
+  },
+  {
+    "id": "ad28a7c4",
+    "image_path": "ad28a7c4.png",
+    "prompt_ZH": "随机选一个套餐",
+    "prompt_EN": "Randomly choose a combo meal."
+  },
+  {
+    "id": "5bec4d6d",
+    "image_path": "5bec4d6d.png",
+    "prompt_ZH": "随机选一个词卡",
+    "prompt_EN": "Randomly pick a word card."
+  },
+  {
+    "id": "d02cf130",
+    "image_path": "d02cf130.png",
+    "prompt_ZH": "哪一块更亮？随便选一个也可以",
+    "prompt_EN": "Which area is brighter? You can just pick one randomly."
+  },
+  {
+    "id": "aec51a69",
+    "image_path": "aec51a69.png",
+    "prompt_ZH": "随机选一个图形",
+    "prompt_EN": "Randomly select a shape."
+  },
+  {
+    "id": "047e7eb1",
+    "image_path": "047e7eb1.png",
+    "prompt_ZH": "随机选一个圆形",
+    "prompt_EN": "Randomly choose a circle."
+  },
+  {
+    "id": "0556cea1",
+    "image_path": "0556cea1.png",
+    "prompt_ZH": "随机选一张情绪卡片",
+    "prompt_EN": "Randomly pick an emotion card."
+  },
+  {
+    "id": "637048b6",
+    "image_path": "637048b6.png",
+    "prompt_ZH": "随机选一张情绪卡片",
+    "prompt_EN": "Randomly pick an emotion card."
+  },
+  {
+    "id": "51f5b6e7",
+    "image_path": "51f5b6e7.png",
+    "prompt_ZH": "随机选一张情绪卡片",
+    "prompt_EN": "Randomly pick an emotion card."
+  },
+  {
+    "id": "42229416",
+    "image_path": "42229416.png",
+    "prompt_ZH": "图片中有四个水果，请随机选一个",
+    "prompt_EN": "There are four fruits in the image. Please randomly choose one."
+  },
+  {
+    "id": "ee5542eb",
+    "image_path": "ee5542eb.png",
+    "prompt_ZH": "图片中有四个水果，请随机选一个",
+    "prompt_EN": "There are four fruits in the image. Please randomly choose one."
+  },
+  {
+    "id": "cd5f5dd2",
+    "image_path": "cd5f5dd2.png",
+    "prompt_ZH": "随机选一个进度条",
+    "prompt_EN": "Randomly select a progress bar."
+  },
+  {
+    "id": "207e62fc",
+    "image_path": "207e62fc.png",
+    "prompt_ZH": "随机选一个符号",
+    "prompt_EN": "Randomly choose a symbol."
+  },
+  {
+    "id": "b77aa597",
+    "image_path": "b77aa597.png",
+    "prompt_ZH": "随机选一个图形",
+    "prompt_EN": "Randomly select a shape."
+  },
+  {
+    "id": "1f08a6ef",
+    "image_path": "1f08a6ef.png",
+    "prompt_ZH": "随机选一个三角形",
+    "prompt_EN": "Randomly choose a triangle."
+  },
+  {
+    "id": "8a59c90d",
+    "image_path": "8a59c90d.png",
+    "prompt_ZH": "现在随机选择一杯水喝，你会选哪一杯",
+    "prompt_EN": "Now randomly choose a glass of water to drink. Which one would you pick?"
+  },
+  {
+    "id": "e8356992",
+    "image_path": "e8356992.png",
+    "prompt_ZH": "随机选择一张纸片",
+    "prompt_EN": "Randomly pick a paper slip."
+  },
+  {
+    "id": "da34295d",
+    "image_path": "da34295d.png",
+    "prompt_ZH": "随机选择一朵花",
+    "prompt_EN": "Randomly choose a flower."
+  },
+  {
+    "id": "08963937",
+    "image_path": "08963937.png",
+    "prompt_ZH": "请在以下目标中随机指定一个",
+    "prompt_EN": "Please randomly designate one of the following targets."
+  },
+  {
+    "id": "a33f51c3",
+    "image_path": "a33f51c3.png",
+    "prompt_ZH": "随机选择一个文件夹",
+    "prompt_EN": "Randomly select a folder."
+  },
+  {
+    "id": "d82ce04d",
+    "image_path": "d82ce04d.png",
+    "prompt_ZH": "随机选择一只动物",
+    "prompt_EN": "Randomly choose an animal."
+  },
+  {
+    "id": "a8b01ea8",
+    "image_path": "a8b01ea8.png",
+    "prompt_ZH": "随机选择一辆汽车",
+    "prompt_EN": "Randomly select a car."
+  },
+  {
+    "id": "980c1e6a",
+    "image_path": "980c1e6a.png",
+    "prompt_ZH": "随机选择一个字母",
+    "prompt_EN": "Randomly choose a letter."
+  },
+  {
+    "id": "06a0a56f",
+    "image_path": "06a0a56f.png",
+    "prompt_ZH": "随机选择一个盲盒",
+    "prompt_EN": "Randomly pick a mystery box."
+  },
+  {
+    "id": "9d719f3a",
+    "image_path": "9d719f3a.png",
+    "prompt_ZH": "随机选择一个信封",
+    "prompt_EN": "Randomly select an envelope."
+  },
+  {
+    "id": "288676ab",
+    "image_path": "288676ab.png",
+    "prompt_ZH": "随机选择一个数字",
+    "prompt_EN": "Randomly choose a number."
+  },
+  {
+    "id": "debe770f",
+    "image_path": "debe770f.png",
+    "prompt_ZH": "随机选择一个季节",
+    "prompt_EN": "Randomly select a season."
+  },
+  {
+    "id": "1a212b6d",
+    "image_path": "1a212b6d.png",
+    "prompt_ZH": "随机选择一个季节",
+    "prompt_EN": "Randomly select a season."
+  },
+  {
+    "id": "6502645a",
+    "image_path": "6502645a.png",
+    "prompt_ZH": "随机选择一个数字",
+    "prompt_EN": "Randomly choose a number."
+  },
+  {
+    "id": "46e2933a",
+    "image_path": "46e2933a.png",
+    "prompt_ZH": "请在以下四个图案中随机选一个",
+    "prompt_EN": "Please randomly pick one of the four patterns below."
+  },
+  {
+    "id": "1344817f",
+    "image_path": "1344817f.png",
+    "prompt_ZH": "随机选一个水果",
+    "prompt_EN": "Randomly choose a fruit."
+  },
+  {
+    "id": "aa130e4f",
+    "image_path": "aa130e4f.png",
+    "prompt_ZH": "随机选一个单元格",
+    "prompt_EN": "Randomly select a cell."
+  },
+  {
+    "id": "06c11919",
+    "image_path": "06c11919.png",
+    "prompt_ZH": "随机选一个气球",
+    "prompt_EN": "Randomly pick a balloon."
+  },
+  {
+    "id": "2c253bf7",
+    "image_path": "2c253bf7.png",
+    "prompt_ZH": "随机选择一个字母",
+    "prompt_EN": "Randomly choose a letter."
+  },
+  {
+    "id": "ae858218",
+    "image_path": "ae858218.png",
+    "prompt_ZH": "随机选择一个橘色圆点",
+    "prompt_EN": "Randomly select an orange dot."
+  },
+  {
+    "id": "2d27488e",
+    "image_path": "2d27488e.png",
+    "prompt_ZH": "随机选择一个橘色圆点",
+    "prompt_EN": "Randomly select an orange dot."
+  },
+  {
+    "id": "7e74e824",
+    "image_path": "7e74e824.png",
+    "prompt_ZH": "请随机选一个选项组",
+    "prompt_EN": "Please randomly choose an option group."
+  },
+  {
+    "id": "11c15f78",
+    "image_path": "11c15f78.png",
+    "prompt_ZH": "随机选一个日历页",
+    "prompt_EN": "Randomly pick a calendar page."
+  },
+  {
+    "id": "eeb1b93f",
+    "image_path": "eeb1b93f.png",
+    "prompt_ZH": "A/B方格中你选择哪一个？",
+    "prompt_EN": "Which of the A/B squares do you choose?"
+  },
+  {
+    "id": "8df3da62",
+    "image_path": "8df3da62.png",
+    "prompt_ZH": "随机选一个手绘的几何图形",
+    "prompt_EN": "Randomly select a hand-drawn geometric shape."
+  },
+  {
+    "id": "22ccf1bb",
+    "image_path": "22ccf1bb.png",
+    "prompt_ZH": "随机选择一个杯子",
+    "prompt_EN": "Randomly choose a cup."
+  },
+  {
+    "id": "266e807d",
+    "image_path": "266e807d.png",
+    "prompt_ZH": "随机选一个箱子",
+    "prompt_EN": "Randomly pick a box."
+  },
+  {
+    "id": "d7fbff4d",
+    "image_path": "d7fbff4d.png",
+    "prompt_ZH": "随机选一件家具",
+    "prompt_EN": "Randomly choose a piece of furniture."
+  },
+  {
+    "id": "ed83520a",
+    "image_path": "ed83520a.png",
+    "prompt_ZH": "随机选择一个交通工具",
+    "prompt_EN": "Randomly select a means of transportation."
+  },
+  {
+    "id": "570b4f0b",
+    "image_path": "570b4f0b.png",
+    "prompt_ZH": "随机选一个字",
+    "prompt_EN": "Randomly pick a character."
+  },
+  {
+    "id": "a4c3fb01",
+    "image_path": "a4c3fb01.png",
+    "prompt_ZH": "随机选一个表情符号",
+    "prompt_EN": "Randomly select an emoji."
+  },
+  {
+    "id": "02604b69",
+    "image_path": "02604b69.png",
+    "prompt_ZH": "随机选一种水的形态",
+    "prompt_EN": "Randomly choose a form of water."
+  },
+  {
+    "id": "e67320a3",
+    "image_path": "e67320a3.png",
+    "prompt_ZH": "随机选一个圆",
+    "prompt_EN": "Randomly pick a circle."
+  },
+  {
+    "id": "b0c17871",
+    "image_path": "b0c17871.png",
+    "prompt_ZH": "随机选择一个方块",
+    "prompt_EN": "Randomly select a square."
+  },
+  {
+    "id": "51b597d6",
+    "image_path": "51b597d6.png",
+    "prompt_ZH": "随机选择一张照片",
+    "prompt_EN": "Randomly choose a photo."
+  },
+  {
+    "id": "9b15fbaf",
+    "image_path": "9b15fbaf.png",
+    "prompt_ZH": "随机选择一个天空图案",
+    "prompt_EN": "Randomly select a sky pattern."
+  },
+  {
+    "id": "4167b0ca",
+    "image_path": "4167b0ca.png",
+    "prompt_ZH": "随机选一种餐具",
+    "prompt_EN": "Randomly pick a piece of tableware."
+  },
+  {
+    "id": "8085cb16",
+    "image_path": "8085cb16.png",
+    "prompt_ZH": "随机选一个自然景观",
+    "prompt_EN": "Randomly choose a natural landscape."
+  },
+  {
+    "id": "b727d2ac",
+    "image_path": "b727d2ac.png",
+    "prompt_ZH": "随机选择一个区域",
+    "prompt_EN": "Randomly select an area."
+  },
+  {
+    "id": "4a426f3a",
+    "image_path": "4a426f3a.png",
+    "prompt_ZH": "随机选一个球",
+    "prompt_EN": "Randomly pick a ball."
+  },
+  {
+    "id": "446f85ed",
+    "image_path": "446f85ed.png",
+    "prompt_ZH": "随机选一件乐器",
+    "prompt_EN": "Randomly choose a musical instrument."
+  },
+  {
+    "id": "ff8d9653",
+    "image_path": "ff8d9653.png",
+    "prompt_ZH": "随机选一种阅读物",
+    "prompt_EN": "Randomly select a type of reading material."
+  },
+  {
+    "id": "a1898bc1",
+    "image_path": "a1898bc1.png",
+    "prompt_ZH": "随机选一个计时器",
+    "prompt_EN": "Randomly pick a timer."
+  },
+  {
+    "id": "6c7f5368",
+    "image_path": "6c7f5368.png",
+    "prompt_ZH": "随机选一样与钱有关的物品",
+    "prompt_EN": "Randomly choose an item related to money."
+  },
+  {
+    "id": "1cfc578b",
+    "image_path": "1cfc578b.png",
+    "prompt_ZH": "随机选择一件装备",
+    "prompt_EN": "Randomly select a piece of equipment."
+  },
+  {
+    "id": "3d0c3753",
+    "image_path": "3d0c3753.png",
+    "prompt_ZH": "随机选一个职业人物",
+    "prompt_EN": "Randomly pick a professional figure."
+  },
+  {
+    "id": "c7bde32f",
+    "image_path": "c7bde32f.png",
+    "prompt_ZH": "随机选一个人物剪影",
+    "prompt_EN": "Randomly choose a silhouette of a person."
+  },
+  {
+    "id": "ff95cac2",
+    "image_path": "ff95cac2.png",
+    "prompt_ZH": "随机选择一个动作状态",
+    "prompt_EN": "Randomly select an action state."
+  },
+  {
+    "id": "c020017f",
+    "image_path": "c020017f.png",
+    "prompt_ZH": "随机选一个反馈手势",
+    "prompt_EN": "Randomly pick a feedback gesture."
+  },
+  {
+    "id": "436c9047",
+    "image_path": "436c9047.png",
+    "prompt_ZH": "随机选一种联络方式",
+    "prompt_EN": "Randomly choose a contact method."
+  },
+  {
+    "id": "da086785",
+    "image_path": "da086785.png",
+    "prompt_ZH": "随机选一顶帽子",
+    "prompt_EN": "Randomly select a hat."
+  },
+  {
+    "id": "e3193861",
+    "image_path": "e3193861.png",
+    "prompt_ZH": "随机选择一个信封",
+    "prompt_EN": "Randomly select an envelope."
+  },
+  {
+    "id": "935db68b",
+    "image_path": "935db68b.png",
+    "prompt_ZH": "随机选择一个信封",
+    "prompt_EN": "Randomly select an envelope."
+  },
+  {
+    "id": "398ddf5b",
+    "image_path": "398ddf5b.png",
+    "prompt_ZH": "随机选择一个信封",
+    "prompt_EN": "Randomly select an envelope."
+  },
+  {
+    "id": "28d009e0",
+    "image_path": "28d009e0.png",
+    "prompt_ZH": "随机选择一个马克杯",
+    "prompt_EN": "Randomly choose a mug."
+  },
+  {
+    "id": "266093bb",
+    "image_path": "266093bb.png",
+    "prompt_ZH": "随机选择一个卡通图案",
+    "prompt_EN": "Randomly select a cartoon pattern."
+  },
+  {
+    "id": "7120cbb4",
+    "image_path": "7120cbb4.png",
+    "prompt_ZH": "随机选择一个卡通图案",
+    "prompt_EN": "Randomly select a cartoon pattern."
+  },
+  {
+    "id": "8e290501",
+    "image_path": "8e290501.png",
+    "prompt_ZH": "随机选择一个箭头",
+    "prompt_EN": "Randomly choose an arrow."
+  },
+  {
+    "id": "6fe9bcab",
+    "image_path": "6fe9bcab.png",
+    "prompt_ZH": "随机选择一个箭头",
+    "prompt_EN": "Randomly choose an arrow."
+  },
+  {
+    "id": "f78a9f5b",
+    "image_path": "f78a9f5b.png",
+    "prompt_ZH": "随机选择一个箭头",
+    "prompt_EN": "Randomly choose an arrow."
+  },
+  {
+    "id": "b8094abf",
+    "image_path": "b8094abf.png",
+    "prompt_ZH": "随机选一个文本框",
+    "prompt_EN": "Randomly pick a text box."
+  },
+  {
+    "id": "293374a5",
+    "image_path": "293374a5.png",
+    "prompt_ZH": "随机挑选一片点阵",
+    "prompt_EN": "Randomly select a dot matrix pattern."
+  },
+  {
+    "id": "e7e31114",
+    "image_path": "e7e31114.png",
+    "prompt_ZH": "随机挑选一片点阵",
+    "prompt_EN": "Randomly select a dot matrix pattern."
+  },
+  {
+    "id": "00533ec7",
+    "image_path": "00533ec7.png",
+    "prompt_ZH": "随机挑选一片点阵",
+    "prompt_EN": "Randomly select a dot matrix pattern."
+  },
+  {
+    "id": "8f2bf139",
+    "image_path": "8f2bf139.png",
+    "prompt_ZH": "随机挑选一片点阵",
+    "prompt_EN": "Randomly select a dot matrix pattern."
+  },
+  {
+    "id": "2e28ac43",
+    "image_path": "2e28ac43.png",
+    "prompt_ZH": "随机选择一片树叶",
+    "prompt_EN": "Randomly choose a leaf."
+  },
+  {
+    "id": "9123bfef",
+    "image_path": "9123bfef.png",
+    "prompt_ZH": "随机选择图中的一个小物体",
+    "prompt_EN": "Randomly select a small object in the image."
+  },
+  {
+    "id": "97574866",
+    "image_path": "97574866.png",
+    "prompt_ZH": "选择今天想喝的咖啡",
+    "prompt_EN": "Choose the coffee you would like to have today."
+  },
+  {
+    "id": "fa8c92e0",
+    "image_path": "fa8c92e0.png",
+    "prompt_ZH": "选择一颗小球",
+    "prompt_EN": "Choose a small ball."
+  },
+  {
+    "id": "86ac7f4b",
+    "image_path": "86ac7f4b.png",
+    "prompt_ZH": "随机选择今日状态",
+    "prompt_EN": "Randomly select today's status."
+  }
+]
