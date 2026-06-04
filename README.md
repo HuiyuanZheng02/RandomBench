@@ -1,11 +1,10 @@
 # RandomBench
 
-**RandomBench** is a benchmark designed to evaluate whether Multimodal Large Language Models (MLLMs) can maintain **distributionally neutral behavior** when selecting among perfectly equivalent options.
+<p align="center">
+  <img src="assets/overview.jpg" width="900">
+</p>
 
-The benchmark contains **200 logic-neutral instances** across two modalities:
-
-- **RB-Text**: 100 text-based tasks
-- **RB-Vision**: 100 image-based tasks
+**RandomBench** is a benchmark for probing stochastic behavior and latent biases in Multimodal Large Language Models (MLLMs) under logic-neutral conditions. It contains 200 instances across text and vision modalities with perfectly equivalent options. Using metrics like Randomness Index (RI), Bias Intensity (BII), and Bias Consistency (BCI), RandomBench reveals pervasive “Stochastic Collapse,” where models often deviate from uniform randomness. The benchmark enables systematic evaluation of heuristic reliance, cross-lingual robustness, and modality-specific biases in state-of-the-art MLLMs.
 
 ---
 
@@ -21,18 +20,23 @@ RandomBench/
 ├── settings.txt               # API keys and model configuration
 ├── photo_test.py              # Run image-based randomness tests
 ├── text_test.py               # Run text-based randomness tests
+├── requirements.txt           # Python dependencies
+├── assets/
+│   └── overview.jpg
 ├── .gitignore
 └── README.md
 ```
 
 ---
 
-## Quick Start
+## Get Start
 
 ### 1. Install Dependencies
 
+Install the required Python packages using pip:
+
 ```bash
-pip install openai tqdm
+pip install -r requirements.txt
 ```
 
 ### 2. Configure API Settings
@@ -132,19 +136,6 @@ python text_test.py --question-ids 26-32 --replace-labels random
 
 ---
 
-## Benchmark Overview
-
-RandomBench evaluates whether model outputs remain invariant under transformations that should not affect rational decision-making, including:
-
-- Option permutation
-- Label replacement
-- Cross-lingual prompting
-- Modality changes (text vs. vision)
-
-For each instance, all candidate options are intentionally designed to be semantically and logically equivalent, making any systematic preference indicative of selection bias rather than task-specific reasoning.
-
----
-
 ## Citation
 
 If you use RandomBench in your research, please cite:
@@ -156,20 +147,3 @@ If you use RandomBench in your research, please cite:
   journal={arXiv preprint},
   year={2026}
 }
-```
-
----
-
-## License
-
-This project is released under the MIT License.
-
----
-
-## Contact
-
-For questions, suggestions, or bug reports, please contact:
-
-```text
-your_email@example.com
-```

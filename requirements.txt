@@ -1,0 +1,10 @@
+# RandomBench Python dependencies
+
+# OpenAI API client for AsyncOpenAI
+openai>=1.0.0
+
+# Progress bars for experiments
+tqdm>=4.0
+
+# Optional: for type hints in older Python versions
+typing-extensions; python_version < "3.8"
