@@ -141,9 +141,12 @@ python text_test.py --question-ids 26-32 --replace-labels random
 If you use RandomBench in your research, please cite:
 
 ```bibtex
-@article{randombench2026,
-  title={RandomBench: Evaluating Distributional Neutrality in Multimodal Large Language Models},
-  author={Anonymous},
-  journal={arXiv preprint},
-  year={2026}
+@misc{zheng2026randombench,
+      title     = {Evaluating Stochastic Collapse and Implicit Bias in Multimodal Large Language Models},
+      author    = {Huiyuan Zheng and Houtao Zhang and Boyang Wang and Qingyi Si and Hongcheng Guo},
+      year      = {2026},
+      eprint    = {2606.05874},
+      archivePrefix = {arXiv},
+      primaryClass = {cs.CL},
+      url       = {https://arxiv.org/abs/2606.05874}
 }
